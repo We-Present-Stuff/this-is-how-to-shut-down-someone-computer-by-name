@@ -1,1 +1,7 @@
-shutdown -i
+shut down -i 
+
+net user
+
+net user (USERNAME)
+
+please read the README
